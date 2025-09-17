@@ -1,5 +1,5 @@
 p{
-    background-color: lightgrey;
+    background-color: rgb(211, 211, 211);
 }
 h1{
     background-color: lightseagreen;
@@ -7,4 +7,21 @@ h1{
 h2{
     background-color: lightgreen;
     color: black;
+}
+#main-content{
+    background-color: rgb(230, 184, 173);
+    padding: 20px;
+    border-radius: 10px;
+} 
+.section text{
+    background-color: rgb(233, 33, 33);
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+*{
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+    
 }
